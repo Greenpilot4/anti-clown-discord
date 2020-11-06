@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Cloud 9 
+.c9/
+
+# Bot 
+config.json
