@@ -1,0 +1,22 @@
+{
+  "name": "discord-anti-clown",
+  "version": "1.0.0",
+  "description": "Remove Clown Emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenpilot4/anti-clown-discord.git"
+  },
+  "author": "Greenpilot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greenpilot4/anti-clown-discord/issues"
+  },
+  "homepage": "https://github.com/Greenpilot4/anti-clown-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
