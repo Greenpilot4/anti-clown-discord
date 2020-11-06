@@ -1,0 +1,24 @@
+{
+  "name": "Anti-Clown",
+  "description": "Remove those pesky clowns.",
+  "repository": "https://github.com/Greenpilot4/anti-clown-discord",
+  "logo": "https://github.com/Greenpilot4/anti-clown-discord/raw/heroku/logo.png",
+  "keywords": [
+    "nodejs",
+    "node",
+    "bot"
+    "clown",
+  ],
+  "env": {
+    "prefix": {
+      "description": "Prefix For Bot Commands"
+    },
+    "token": {
+      "description": "Discord Bot Token"
+    },
+    "rmessage": {
+      "description": "Message to reply with after deletion of clown containing message."
+    },
+
+  }
+}
