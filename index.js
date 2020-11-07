@@ -30,4 +30,10 @@ client.on("message", async (message) => {
     }
 });
 
+client.on("messageReactionAdd", async (reaction, user) => {
+   
+   if (reaction.emoji.name == "🤡") {
+       reaction.remove(user)
+   }
+}); 
 client.login(token);
