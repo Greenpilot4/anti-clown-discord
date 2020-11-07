@@ -6,8 +6,8 @@
   "keywords": [
     "nodejs",
     "node",
-    "bot"
-    "clown",
+    "bot",
+    "clown"
   ],
   "env": {
     "prefix": {
