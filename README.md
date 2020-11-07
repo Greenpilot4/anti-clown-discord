@@ -1,5 +1,5 @@
 # Anti Clown
-Tired of cringe 12 year olds spamming the clown emoji? Use this bot to prevent people from using the clown emoji!
+Tired of cringe 12 year olds spamming the clown emoji? Use this bot to prevent people from using the clown emoji! 
 ## General Bot Setup
 Visit https://discord.com/developers/applications and login.
 
@@ -11,7 +11,7 @@ Add a bot.
 
 Once you have created your bot find where it says "token" and copy.
 
-Once you have copied your bot token, paste this into the config.json file under "token" or in heroku under token. 
+After you have copied your bot token, paste this into the config.json file under "token" or in heroku under token. 
 
 ## Inviting to discord server
 To invite your bot to your server go to the application settings, the "General Information Tab" and copy the client ID. 
