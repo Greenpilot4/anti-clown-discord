@@ -18,7 +18,7 @@
     },
     "rmessage": {
       "description": "Message to reply with after deletion of clown containing message."
-    },
+    }
 
   }
 }
