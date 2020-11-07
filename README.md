@@ -18,6 +18,7 @@ To install needed packages run - `npm install`  within directory
 After run `node .` to start the bot!
 
 ## Heroku
+Alternatively, you can also run on heroku, just follow steps of button below. 
 
 <a href="https://heroku.com/deploy?template=https://github.com/Greenpilot4/anti-clown-discord/tree/heroku">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
