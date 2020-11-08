@@ -1,5 +1,8 @@
 # Anti Clown
 Tired of cringe 12 year olds spamming the clown emoji? Use this bot to prevent people from using the clown emoji! 
+
+Not only that, but it'll remove reactions as well!
+
 ## General Bot Setup
 Visit https://discord.com/developers/applications and login.
 
