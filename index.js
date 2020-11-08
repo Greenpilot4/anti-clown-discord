@@ -15,7 +15,6 @@ client.on("message", async(message) => {
 
     if (message.content.includes("🤡")) {
         log(currentTime() + " " + message.author.tag + " sent a clown");
-        log(currentTime() + " " + message.author.tag + "'s" + " clown deleted")
         message.delete()
         message.reply(rmessage)
             .then(msg => {
@@ -29,7 +28,6 @@ client.on("messageReactionAdd", async(reaction, user) => {
 
     if (reaction.emoji.name == "🤡") {
         log(currentTime() + " " + reaction.users + " reacted with a clown");
-        log(currentTime() + " " + reaction.users + "'s" + " clown reaction deleted");
         reaction.remove(user);
     }
 });
