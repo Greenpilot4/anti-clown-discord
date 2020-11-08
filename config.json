@@ -1,5 +1,6 @@
 {
     "prefix": "^", 
     "token": "TOKEN HERE",
-    "rmessage": "No clowns allowed here!"
+    "rmessage": "No clowns allowed here!",
+    "logging": "Logging enabled, true or false"
 }
