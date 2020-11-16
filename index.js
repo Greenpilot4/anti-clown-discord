@@ -27,7 +27,7 @@ client.on("message", async(message) => {
 client.on("messageReactionAdd", async(reaction, user) => {
 
     if (reaction.emoji.name == "🤡") {
-        log(currentTime() + " " + reaction.users + " reacted with a clown");
+        log(currentTime() + " " + user.tag + " reacted with a clown");
         reaction.remove(user);
     }
 });
